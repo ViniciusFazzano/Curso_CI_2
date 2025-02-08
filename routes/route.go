@@ -5,6 +5,8 @@ import (
 	"github.com/guilhermeonrails/api-go-gin/controllers"
 )
 
+//ola teste
+
 func HandleRequest() {
 	r := gin.Default()
 	r.LoadHTMLGlob("templates/*")
